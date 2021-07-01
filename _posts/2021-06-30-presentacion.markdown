@@ -8,7 +8,8 @@ categories: Anuncios
 tags: "anuncios"
 ---
 
-Hola, soy Xander, y bienvenido a este blog de ciberseguridad.
+#Hola, soy Xander
+##Bienvenido a este blog de ciberseguridad.
 
 Este blog va dirigido a cualquier persona que quiera empezar en ciberseguridad, en este voy a estar subiendo todo mi proceso de aprendizaje en seguridad informática, el cual tiene como objetivo conseguir la certificación OSCP de Offensive Security.
 
