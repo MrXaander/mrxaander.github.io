@@ -4,5 +4,5 @@
 
 layout: home
 title: BLOG
-banner: "montana.jpg"
+banner: "neon.jpg"
 ---
