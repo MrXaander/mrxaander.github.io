@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "OSCP #0"
+date:   2021-06-30 15:37:11 -0500
+categories: OSCP
+permalink: "/oscp/0/"
+tags: "OSCP"
+---
+
+En este blog vas a encontrar información para prepararte para el OSCP.
