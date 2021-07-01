@@ -4,5 +4,5 @@
 
 layout: home
 title: BLOG
-banner: "neon.jpg"
+banner: "hack.jpg"
 ---
