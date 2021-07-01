@@ -8,10 +8,8 @@ categories: Anuncios
 tags: "anuncios"
 ---
 
-## Soy Xander, y bienvenido a este blog de ciberseguridad.
-### Soy yo
-# Si
-#### No
+## Bienvenido a este blog.
+
 
 Este blog va dirigido a cualquier persona que quiera empezar en ciberseguridad, en este voy a estar subiendo todo mi proceso de aprendizaje en seguridad informática, el cual tiene como objetivo conseguir la certificación OSCP de Offensive Security.
 
@@ -20,3 +18,4 @@ Todo lo que yo vaya aprendiendo va a ser puesto en artículos para este blog, en
 Si hay alguna pregunta acerca de los temas tratados, o alguna duda al respecto, me puden escribir a mi instagram, y con gusto les contestaré.
 
 [Instagram](https://www.instagram.com/mrxaander)
+___________________________________________________________________________________________________________________________________________________________________________________
