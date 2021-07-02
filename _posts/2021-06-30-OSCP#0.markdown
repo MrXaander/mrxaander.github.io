@@ -1,10 +1,39 @@
 ---
 layout: post
 title:  "OSCP #0"
-date:   2021-06-30 15:37:11 -0500
+date:   2021-07-02 12:37:11 -0500
 categories: OSCP
 permalink: "/oscp/0/"
 tags: "oscp"
 ---
 
-En este blog vas a encontrar información para prepararte para el OSCP.
+Antes de empezar a estudiar para la certificación, vamos a hablar sobre algunas cosas importantes.
+
+## ¿Qué es la certificación OSCP?
+
+La certificación OSCP (Offensive Security Certified Professional), es una de las certificación de Hacking Ético más demandadas en la industria de ciberseguridad, la cual es otorgada por Offensive Security, compañia desarrolladora de la distribución de Linux más famosa para Hacking, Kali Linux.
+
+Esta certificación, valga la redundancia, te certifica como un Hacker Ético preparado y capáz. Ya que en se tocan muchos temas de ciberseguridad los cuales son:
+
+- Conociendo Kali Linux
+- La Terminal
+- Herramienttas Prácticas
+- Bash Scripting
+- Recopilación de Información
+- Escaneo de Vulnerabilidades
+- Ataques a Aplicaciónes Web
+- Buffer Overflow
+- Client-Side Attacks
+- Localización de Exploits Públicos
+- Arreglo de Exploits
+- Transferencia de Archivos
+- Evasión de Antivirus
+- Escalación de Privilegios
+- Password Attacks
+- Redirección de Puertos y Tunelización
+- Active Directory
+- Metasploit
+- PowerShell
+---
+
+Esta va a ser mayormente la estructura que se va a seguir en este blog en cuanto a la preparación para la certificación, claramente no solo se tratarán estos temas, sino que se intentará de ampliar lo más posible los conocimientos, a pesar de no estar en el programa de estudios de la certificación. Cada técnica, herramienta o conocimiento nuevo va a ser reforzado al ser usado para vulnerar una maquina virtual de páginas como [TryHackMe](https://tryhackme.com/), [HackTheBox](http://hackthebox.eu/), [VulnHub](https://www.vulnhub.com/), y otras. De esta manera se aprendera poniendo todo en práctica en entornos simulados.
