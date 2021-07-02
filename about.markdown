@@ -12,5 +12,5 @@ Este es mi blog en el que voy a estar subiendo contenido de ciberseguridad, espe
 [Instagram](https://www.instagram.com/mrxaander/)
 [YouTube](https://www.youtube.com/channel/UCBxuMtnkI2vXM5iClieqFkg)
 [Twitter](https://twitter.com/mxaander)
-[LinkedIn](https://www.linkedin.com/in/mrxander/)
+[LinkedIn] (https://www.linkedin.com/in/mrxander/)
 [GitHub](https://github.com/MrXaander)
