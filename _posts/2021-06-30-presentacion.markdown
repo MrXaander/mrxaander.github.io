@@ -19,4 +19,8 @@ Si hay alguna pregunta acerca de los temas tratados, o alguna duda al respecto, 
 
 [Instagram](https://www.instagram.com/mrxaander)
 
+***
 
+---
+
+___
