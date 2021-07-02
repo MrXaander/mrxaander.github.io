@@ -11,7 +11,7 @@ tags: "oscp"
 
 La certificación OSCP (Offensive Security Certified Professional), es una de las certificación de Hacking Ético más demandadas en la industria de ciberseguridad, la cual es otorgada por Offensive Security, compañía desarrolladora de la distribución de Linux más famosa para Hacking, Kali Linux.
 
-Esta certificación, valga la redundancia, te certifica como un Hacker Ético preparado y capáz. Ya que se tocan muchos temas de ciberseguridad. Para ver los temas de la certificación de manera más detallada puedes visitar la siguiente página. [Topics](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf).
+Esta certificación, valga la redundancia, te certifica como un Hacker Ético preparado y capáz. Ya que se tocan muchos temas de ciberseguridad. Para ver los temas de la certificación de manera más detallada puedes visitar la siguiente página [Topics](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf).
 
 ## Temas
 
