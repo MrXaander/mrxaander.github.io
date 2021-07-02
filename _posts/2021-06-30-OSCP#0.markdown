@@ -7,8 +7,6 @@ permalink: "/oscp/0/"
 tags: "oscp"
 ---
 
-Antes de empezar a estudiar para la certificación, vamos a hablar sobre algunas cosas importantes.
-
 ## ¿Qué es la certificación OSCP?
 
 La certificación OSCP (Offensive Security Certified Professional), es una de las certificación de Hacking Ético más demandadas en la industria de ciberseguridad, la cual es otorgada por Offensive Security, compañía desarrolladora de la distribución de Linux más famosa para Hacking, Kali Linux.
