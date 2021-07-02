@@ -37,3 +37,4 @@ Esta certificación, valga la redundancia, te certifica como un Hacker Ético pr
 ---
 
 Esta va a ser mayormente la estructura que se va a seguir en este blog en cuanto a la preparación para la certificación, claramente no solo se tratarán estos temas, sino que se intentará de ampliar lo más posible los conocimientos, a pesar de no estar en el programa de estudios de la certificación. Cada técnica, herramienta o conocimiento nuevo va a ser reforzado al ser usado para vulnerar una maquina virtual de páginas como [TryHackMe](https://tryhackme.com/), [HackTheBox](http://hackthebox.eu/), [VulnHub](https://www.vulnhub.com/), y otras. De esta manera se aprendera poniendo todo en práctica en entornos simulados.
+---
