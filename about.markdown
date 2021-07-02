@@ -21,3 +21,6 @@ Cabe recalcar que no soy ningún profesional, estoy aprendiendo al mismo tiempo 
 - [Twitter](https://twitter.com/mxaander)
 - [LinkedIn](https://www.linkedin.com/in/mrxander/)
 - [GitHub](https://github.com/MrXaander)
+
+
+[](https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg)
