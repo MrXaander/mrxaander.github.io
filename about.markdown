@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: whoami
 ---
 
 ## ¡HOLA! Soy Xander
