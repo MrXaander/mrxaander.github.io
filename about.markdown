@@ -26,4 +26,4 @@ Cabe recalcar que no soy ningún profesional, estoy aprendiendo al mismo tiempo 
 ![](https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg)
 
 
-<img src="https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg" alt="Logo prueba" style="float: left; margin-right: 10px;" />
+<img src="https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg" alt="Logo prueba" style="width: 32px; height: 32px" />
