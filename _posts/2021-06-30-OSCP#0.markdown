@@ -35,7 +35,7 @@ Esta certificación, valga la redundancia, te certifica como un Hacker Ético pr
 - Metasploit
 - PowerShell
 
-<object data="_posts/Things/ContenidoOSCP.pdf" type="application/pdf" width="100%"></object>
+<object data="Things/ContenidoOSCP.pdf" type="application/pdf" width="100%"> </object>
 ## Aclaraciónes
 
 Esta va a ser mayormente la estructura que se va a seguir en este blog en cuanto a la preparación para la certificación, claramente no solo se tratarán estos temas, sino que se intentará de ampliar lo más posible los conocimientos, a pesar de no estar en el programa de estudios de la certificación. 
