@@ -16,14 +16,11 @@ Cabe recalcar que no soy ningún profesional, estoy aprendiendo al mismo tiempo 
 
 ### Redes
 
-- [Instagram](https://www.instagram.com/mrxaander/)
+- <img src="https://img.icons8.com/small/32/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/mrxaander/)
 - [YouTube](https://www.youtube.com/channel/UCBxuMtnkI2vXM5iClieqFkg)
 - [Twitter](https://twitter.com/mxaander)
 - [LinkedIn](https://www.linkedin.com/in/mrxander/)
 - [GitHub](https://github.com/MrXaander)
 
 
-![](https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg)
-
-
-<img src="https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg" alt="Logo prueba" style="width: 32px; height: 32px" />
+<img src="https://img.icons8.com/small/32/000000/instagram-new.png" alt="Logo prueba" style="width: 32px; height: 32px" />
