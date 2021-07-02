@@ -18,7 +18,5 @@ Todo lo que yo vaya aprendiendo va a ser puesto en artículos para este blog, en
 Si hay alguna pregunta acerca de los temas tratados, o alguna duda al respecto, me puden escribir a mi instagram, y con gusto les contestaré.
 
 [Instagram](https://www.instagram.com/mrxaander)
-# 
-## 
-### 
-#### 
+
+
