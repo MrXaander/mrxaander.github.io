@@ -16,11 +16,11 @@ Cabe recalcar que no soy ningún profesional, estoy aprendiendo al mismo tiempo 
 
 ### Redes
 
-<img src="https://img.icons8.com/small/32/000000/instagram-new.png" target=_"blank"/> [Instagram](https://www.instagram.com/mrxaander/)
-<img src="https://img.icons8.com/windows/32/000000/youtube-play.png" target=_"blank"/> [YouTube](https://www.youtube.com/channel/UCBxuMtnkI2vXM5iClieqFkg)
-<img src="https://img.icons8.com/small/32/000000/twitter.png" target=_"blank"/> [Twitter](https://twitter.com/mxaander)
-<img src="https://img.icons8.com/small/32/000000/linkedin.png" target=_"blank"/> [LinkedIn](https://www.linkedin.com/in/mrxander/)
-<img src="https://img.icons8.com/small/32/000000/github.png" target=_"blank"/> [GitHub](https://github.com/MrXaander)
+<img src="https://img.icons8.com/small/32/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/mrxaander/){:target=_"blank"}
+<img src="https://img.icons8.com/windows/32/000000/youtube-play.png"/> [YouTube](https://www.youtube.com/channel/UCBxuMtnkI2vXM5iClieqFkg){:target=_"blank"}
+<img src="https://img.icons8.com/small/32/000000/twitter.png"/> [Twitter](https://twitter.com/mxaander){:target=_"blank"}
+<img src="https://img.icons8.com/small/32/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/mrxander/){:target=_"blank"}
+<img src="https://img.icons8.com/small/32/000000/github.png"/> [GitHub](https://github.com/MrXaander){:target=_"blank"}
 
 
 [comment]: <> (<img src="https://img.icons8.com/small/32/000000/instagram-new.png" alt="Logo prueba" style="width: 32px; height: 32px" />)
