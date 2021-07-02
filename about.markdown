@@ -23,4 +23,4 @@ Cabe recalcar que no soy ningún profesional, estoy aprendiendo al mismo tiempo 
 - [GitHub](https://github.com/MrXaander)
 
 
-[](https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg)
+![](https://pbs.twimg.com/profile_images/1377469497381158912/xdMvjr91_400x400.jpg)
