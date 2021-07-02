@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OSCP #0"
-date:   2021-07-02 12:37:11 -0500
+date:   2021-07-02 16:28:11 -0500
 categories: OSCP
 permalink: "/oscp/0/"
 tags: "oscp"
