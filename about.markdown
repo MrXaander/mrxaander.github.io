@@ -17,10 +17,10 @@ Cabe recalcar que no soy ningún profesional, estoy aprendiendo al mismo tiempo 
 ### Redes
 
 <img src="https://img.icons8.com/small/32/000000/instagram-new.png"/> [Instagram](https://www.instagram.com/mrxaander/)
-- [YouTube](https://www.youtube.com/channel/UCBxuMtnkI2vXM5iClieqFkg)
-- [Twitter](https://twitter.com/mxaander)
-- [LinkedIn](https://www.linkedin.com/in/mrxander/)
-- [GitHub](https://github.com/MrXaander)
+<img src="https://img.icons8.com/windows/32/000000/youtube-play.png"/> [YouTube](https://www.youtube.com/channel/UCBxuMtnkI2vXM5iClieqFkg)
+<img src="https://img.icons8.com/small/32/000000/twitter.png"/> [Twitter](https://twitter.com/mxaander)
+<img src="https://img.icons8.com/small/32/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/mrxander/)
+<img src="https://img.icons8.com/small/32/000000/github.png"/> [GitHub](https://github.com/MrXaander)
 
 
-<img src="https://img.icons8.com/small/32/000000/instagram-new.png" alt="Logo prueba" style="width: 32px; height: 32px" />
+[comment]: <> (<img src="https://img.icons8.com/small/32/000000/instagram-new.png" alt="Logo prueba" style="width: 32px; height: 32px" />)
