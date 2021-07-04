@@ -1,8 +1,0 @@
----
-layout: post
-title:  "OSCP #1 | Máquinas Virtuales"
-date:   2021-07-02 16:28:11 -0500
-categories: OSCP
-permalink: "/oscp/1/"
-tags: "oscp"
----
