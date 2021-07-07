@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "OSCP #1 | Máquinas Virtuales"
+date:   2021-07-06 22:58:11 -0500
+categories: OSCP
+permalink: "/oscp/1/"
+tags: "oscp"
+---
+
+## ¿Qué son las máquinas virtuales?
+Una máquina virtual es simplemente una computadora, una computadora común y corriente en el que puedes tener un sistema operativo, en el que se puede descargar software, y hacer lo que haces en una computadora normal, la única diferencia es que esta computadora está dentro de tu computadora principal. Puedes tener todas las máquinas virtuales que quieras, y en cada una puedes tener un sistema operativo diferente.
+
+<img src="https://www.muycomputer.com/wp-content/uploads/2018/08/Maquinas_virtuales.jpg" style="width:300px;">
+
+## ¿Cómo crear máquinas virtuales?
+La manera en la que puedes crear máquinas virtuales es con un hipervisor. El cual es simplemente un software que descargas como cualquier otro. Este te permite crear máquinas virtuales, y crea piezas de hardware virtuales pidiendo prestado de tus piezas de hardware reales. De esta manera le asigna recursos de hardware a cada máquina virtual, según se le haya indicado. Como ejemplos de hipervisores está VirtualBox, VMware, y otras.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" style="width:300px;">
+
+## ¿Para qué sirven las máquinas virtuales?
+Las máquinas virtuales sirven para muchas cosas, pero son usadas mayormente para probar sistemas operativos diferentes, para probar nuevas aplicaciónes, para ver como actúa un malware dentro de un equipo, ya que no importa lo que pase en la máquina virtual, eso no afecta a tu computadora principal.
+
+Se pueden tomar snapshots de una máquina virtual en un momento determinado. Lo cual significa que si se llega a dañar o afectar de algúna forma la máquina virtual, puedes volver a empezar desde el momento en el que tomaste la snapshot, y de esta manera la máquina virtual volvería a ser exactamente como fue en ese momento.
+
+## Tutorial para crear máquinas virtuales
+
+Para crear una máquina virtual necesitamos descargar un par de cosas, por lo que puedes ir al tutorial de este mismo tema que se encuentra en mi canal de YouTube. Si quieres ir directo a la creación de la máquina virtual, en el video se indica el minuto en el que empieza, pero te recomiendo ver el video para entender mejor qué son las máquinas virtuales.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzFrF4qjrK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
