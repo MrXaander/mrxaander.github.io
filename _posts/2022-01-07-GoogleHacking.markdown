@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Qué es Google Hacking?"
-date:   2022-01-07 14:34:11 -0500
+date:   2021-01-07 14:34:11 -0500
 categories: OSCP
 permalink: "/googlehacking/"
 tags: "oscp"
