@@ -2,9 +2,9 @@
 layout: post
 title:  "¿Qué es Google Hacking?"
 date:   2022-01-07 14:34:11 -0500
-categories: WHATIS
+categories: OSCP
 permalink: "/googlehacking/"
-tags: "whatis"
+tags: "oscp"
 ---
 
 ## ¿Qué es la certificación OSCP?
